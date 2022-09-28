@@ -1,0 +1,89 @@
+
+a:link{
+    text-decoration: none;
+    margin-left: 2em;
+}
+header{
+    display: flex;
+    margin-left: 11em;
+    height: 3rem;
+    width: 100%;
+    background-color: #fff;
+    align-items: center;
+    
+
+}
+
+.subHeader1{
+    
+}
+
+.subHeader2{
+    margin-left: 38em;
+    
+}
+
+
+
+.mainBody
+{
+    width: 100%;
+   
+}
+
+.telgram-info
+{
+    height: 16.75rem;
+    width: 100%;
+    background-color: bisque;
+}
+
+.mobile-info
+{
+    height:23.75rem;
+    width: 100%;
+    background-color: greenyellow;
+}
+
+.pc-info
+{
+    height:19.25rem;
+    width: 100%;
+    background-color: red;
+}
+
+.recent-news
+{
+    height: 29rem;
+    width: 100%;
+    background-color: yellow;
+
+}
+
+.why-telegram
+{
+    height: 61rem;
+    width: 100%;
+    background-color: violet;
+}
+
+
+
+footer{
+    background-color: aqua;
+    height: 3rem;
+    width: 100%;
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .pcmac{
+visibility: hidden ;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .pcmac{
+visibility: hidden ;
+    }
+}
